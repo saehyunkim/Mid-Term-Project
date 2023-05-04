@@ -1,2 +1,2 @@
 # Mid-Term-Project
-![header](https://capsule-render.vercel.app/api?type=rounded&color=dff9fb&height=300&section=header&text=김%20세현&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=dff9fb&height=300&section=header&text=김세현&fontSize=50)
